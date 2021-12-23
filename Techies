@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Dotapub</title>
+</head>
+
+<body>
+
+  <body text="#ffffff">
+
+    <body background="2.jpeg" <h1>Most picked hero in Dota 2 </h1>
+      <hr>
+      <img src="https://www.cybersport.ru/material/social/image/fb/558032" alt="miner" style="width:500px;height:300px;">
+      <img src="https://i.imgur.com/ORmIb7e.gif" align="right" alt="" style="width:300px;height:300px;">
+      <p><em>Techies is a ranged hero whose main attribute is Intelligence attribute.</em></p>
+      <hr>
+      <h3>His ability :</h3>
+      <ul>
+        <li>Proximity Mines</li>
+        <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8b/Techies_Proximity_Mine_model.png/revision/latest/scale-to-width-down/250?cb=20160315130552" alt="" style="width:300px;height:300px;">
+        <p>Places an invisible mine. Its invisibility cannot be revealed, but it will become visible if the enemy enters the radius of action.</p>
+        <li>Stasis Trap</li>
+        <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a7/Techies_Stasis_Trap_model.png/revision/latest/scale-to-width-down/250?cb=20160315130635" alt="" style="width:300px;height:300px;">
+        <p>Places an invisible trap that, when triggered, rootes enemy units.</p>
+        <li>Blast Off!</li>
+        <img src="https://yt3.ggpht.com/ytc/AKedOLRAVx4HC5ruGJ4wtv34eOLCWufChNTqOjj1_9fP7Q=s900-c-k-c0x00ffffff-no-rj" alt="" style="width:300px;height:300px;">
+        <p>Heroes rush into the midst of enemies and, upon landing, detonate their ammo, inflicting huge damage on enemies hit</p>
+        <li>Remote Mines</li>
+        <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2e/Techies_Remote_Mine_model.png/revision/latest/scale-to-width-down/250?cb=20160315130733" alt="" style="width:300px;height:300px;">
+        <p>Places an invisible mine that detonates only when manually activated</p>
+      </ul>
+      <hr>
+      <h3>Facts</h3>
+      <ul type="square">
+        <li>Prior to release, Techies was first shown at an All-Star Game.</li>
+        <li>Techies have replicas "Counter-Techies Win" and "Bomb has been planted" which is a reference to another Valve game Counter-Strike.</li>
+        <li>The cracked barrel on the Remote Mines icon forms the face of Trollface.</li>
+        <p><strong>More information can be found</strong></p> <a href="https://dota2.fandom.com/ru/wiki/Techies">here</a>
+
+
+    </body>
+
+</html>
