@@ -1,45 +1,104 @@
-<!DOCTYPE html>
+
+    <!DOCTYPE html>
 <html>
 
 <head>
   <meta charset="UTF-8">
   <title>Dotapub</title>
+  <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+  <link rel="manifest" href="manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
 </head>
 
 <body>
 
-  <body text="#ffffff">
-
-    <body background="2.jpeg" <h1>Most picked hero in Dota 2 </h1>
-      <hr>
-      <img src="https://www.cybersport.ru/material/social/image/fb/558032" alt="miner" style="width:500px;height:300px;">
-      <img src="https://i.imgur.com/ORmIb7e.gif" align="right" alt="" style="width:300px;height:300px;">
-      <p><em>Techies is a ranged hero whose main attribute is Intelligence attribute.</em></p>
-      <hr>
-      <h3>His ability :</h3>
-      <ul>
-        <li>Proximity Mines</li>
-        <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8b/Techies_Proximity_Mine_model.png/revision/latest/scale-to-width-down/250?cb=20160315130552" alt="" style="width:300px;height:300px;">
-        <p>Places an invisible mine. Its invisibility cannot be revealed, but it will become visible if the enemy enters the radius of action.</p>
-        <li>Stasis Trap</li>
-        <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a7/Techies_Stasis_Trap_model.png/revision/latest/scale-to-width-down/250?cb=20160315130635" alt="" style="width:300px;height:300px;">
-        <p>Places an invisible trap that, when triggered, rootes enemy units.</p>
-        <li>Blast Off!</li>
-        <img src="https://yt3.ggpht.com/ytc/AKedOLRAVx4HC5ruGJ4wtv34eOLCWufChNTqOjj1_9fP7Q=s900-c-k-c0x00ffffff-no-rj" alt="" style="width:300px;height:300px;">
-        <p>Heroes rush into the midst of enemies and, upon landing, detonate their ammo, inflicting huge damage on enemies hit</p>
-        <li>Remote Mines</li>
-        <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2e/Techies_Remote_Mine_model.png/revision/latest/scale-to-width-down/250?cb=20160315130733" alt="" style="width:300px;height:300px;">
-        <p>Places an invisible mine that detonates only when manually activated</p>
-      </ul>
-      <hr>
-      <h3>Facts</h3>
-      <ul type="square">
-        <li>Prior to release, Techies was first shown at an All-Star Game.</li>
-        <li>Techies have replicas "Counter-Techies Win" and "Bomb has been planted" which is a reference to another Valve game Counter-Strike.</li>
-        <li>The cracked barrel on the Remote Mines icon forms the face of Trollface.</li>
-        <p><strong>More information can be found</strong></p> <a href="https://dota2.fandom.com/ru/wiki/Techies">here</a>
 
 
-    </body>
+  <body style="font-family:Arial, Verdana, sans-serif">
+
+    <body style="font-size:120%">
+      <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+      <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+      <body text="#ffffff">
+
+        <body background="2.jpeg" <h1>Most picked hero in Dota 2 </h1>
+          <form action="/action_page.php">
+            <hr>
+
+            <label for="fname">First name:</label align="right" <br>
+            <input type="text" id="fname" name="fname" value=""><br>
+            <label for="lname">Last name:</label align="right" <br>
+            <input type="text" id="lname" name="lname" value=""><br><br>
+            <input type="submit" value="Submit">
+          </form>
+
+          <hr>
+          <img src="https://www.cybersport.ru/material/social/image/fb/558032" alt="miner" style="width:500px;height:300px;">
+          <img src="https://i.imgur.com/ORmIb7e.gif" align="right" alt="" style="width:300px;height:300px;">
+          <p><em>Techies is a ranged hero whose main attribute is Intelligence attribute.</em></p>
+          <hr>
+          <h3>His ability :</h3>
+          <ul>
+            <li>Proximity Mines</li>
+            <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8b/Techies_Proximity_Mine_model.png/revision/latest/scale-to-width-down/250?cb=20160315130552" alt="" style="width:300px;height:300px;">
+
+            <p>Places an invisible mine. Its invisibility cannot be revealed, but it will become visible if the enemy enters the radius of action.</p>
+            <li>Stasis Trap</li>
+            <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a7/Techies_Stasis_Trap_model.png/revision/latest/scale-to-width-down/250?cb=20160315130635" alt="" style="width:300px;height:300px;">
+            <p>Places an invisible trap that, when triggered, rootes enemy units.</p>
+            <li>Blast Off!</li>
+            <img src="https://yt3.ggpht.com/ytc/AKedOLRAVx4HC5ruGJ4wtv34eOLCWufChNTqOjj1_9fP7Q=s900-c-k-c0x00ffffff-no-rj" alt="" style="width:300px;height:300px;">
+            <p>Heroes rush into the midst of enemies and, upon landing, detonate their ammo, inflicting huge damage on enemies hit</p>
+            <li>Remote Mines</li>
+            <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2e/Techies_Remote_Mine_model.png/revision/latest/scale-to-width-down/250?cb=20160315130733" alt="" style="width:300px;height:300px;">
+            <p>Places an invisible mine that detonates only when manually activated</p>
+          </ul>
+          <hr>
+          <h3><strong>What is counter pick in Dota 2</strong></h3>
+          <p>Counter-pick is a deliberate choice of a hero as opposed to the heroes of the enemy, to make it easier for yourself to play.</p>
+          <p>It is important to figure out which hero is better for the draft and not to pick at random. This can make the game much easier for you.</p>
+          <p><strong>Below we will see who is the counter-peak of Techies.</strong></p>
+          <table border="1">
+            <caption><strong>Counter-peaks of Techies</strong></caption>
+            <tr>
+              <th>Lifestealer</th>
+              <th>Wraith King</th>
+              <th>Oracle</th>
+              <th>Lycan</th>
+            </tr>
+            <tr>
+              <td><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2b/Lifestealer_icon.png/revision/latest/scale-to-width-down/300?cb=20160411211952" alt="" style="width:200px;height:150px;"></td>
+              <td><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1e/Wraith_King_icon.png/revision/latest/scale-to-width-down/300?cb=20160411211746" alt="" style="width:200px;height:150px;"></td>
+              <td><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Oracle_icon.png/revision/latest/scale-to-width-down/300?cb=20160411215824" alt="" style="width:200px;height:150px;"></td>
+              <td><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d6/Lycan_icon.png/revision/latest/scale-to-width-down/300?cb=20160411212224" alt="" style="width:200px;height:150px;"></td>
+            </tr>
+
+
+          </table>
+          <hr>
+          <h3>Facts</h3>
+          <ul type="square">
+            <li>Prior to release, Techies was first shown at an All-Star Game.</li>
+            <li>Techies have replicas "Counter-Techies Win" and "Bomb has been planted" which is a reference to another Valve game Counter-Strike.</li>
+            <li>The cracked barrel on the Remote Mines icon forms the face of Trollface.</li>
+            <p><strong>More information can be found</strong></p> <a href="https://dota2.fandom.com/ru/wiki/Techies">here</a>
+
+
+        </body>
 
 </html>
